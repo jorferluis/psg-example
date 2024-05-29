@@ -317,10 +317,12 @@
 # print(conjunto.remove(1)) # AttributeError: 'frozenset' object has no attribute 'remove'
 # print(conjunto |= {6}) # SyntaxError: invalid syntax
 
-print ("Conjunto de conjuntos")
-conjunto = {frozenset({'🍅','🍓','🍎'}), frozenset({'🍈','🍐','🍏'})}
-print(conjunto)
-print(type(conjunto))
+# print ("Conjunto de conjuntos")
+# conjunto = {frozenset({'🍅','🍓','🍎'}), frozenset({'🍈','🍐','🍏'})}
+# print(conjunto)
+# print(type(conjunto))
+
+
 
 
 
